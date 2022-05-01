@@ -1,0 +1,1 @@
+"./delay.obj" "./displayWinner.obj" "./main.obj" "./mtxdisp.obj" "./placeMove.obj" "./playerWon.obj" "./switch.obj" "../lnk_msp430g2553.cmd" -llibc.a 
